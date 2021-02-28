@@ -1,5 +1,5 @@
 {
-  "name": "lipsum.js",
+  "name": "lipsum-i18n",
   "version": "0.0.1",
   "description": "Lorem Ipsum i18n for JavaScript library | 国际化乱数假文js库",
   "main": "index.js",
