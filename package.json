@@ -1,0 +1,26 @@
+{
+  "name": "lipsum.js",
+  "version": "0.0.1",
+  "description": "Lorem Ipsum i18n for JavaScript library | 国际化乱数假文js库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llxlr/lipsum.js.git"
+  },
+  "keywords": [
+    "loremipsum",
+    "lipsum"
+  ],
+  "author": "jamesyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llxlr/lipsum.js/issues"
+  },
+  "homepage": "https://github.com/llxlr/lipsum.js#readme"
+}
