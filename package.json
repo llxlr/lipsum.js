@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/llxlr/lipsum.js/issues"
   },
-  "homepage": "https://github.com/llxlr/lipsum.js#readme"
+  "homepage": "https://github.com/llxlr/lipsum.js#readme",
+  "dependencies": {
+    "lipsum-i18n": "^0.0.1"
+  }
 }
